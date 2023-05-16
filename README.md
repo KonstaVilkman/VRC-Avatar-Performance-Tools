@@ -27,7 +27,7 @@ Please use this to keep your VRAM usage down. High VRAM usage causes performance
 1. Open VCC. Go  to Settings -> Packages -> Click the "Add Repository" Button (Next to Installed Repositories)
 2. Paste the following URL and click the "Add" Button
 ```sh 
-vpm add repo https://thryrallo.github.io/VRC-Avatar-Performance-Tools
+https://thryrallo.github.io/VRC-Avatar-Performance-Tools
 ```
 3. In Creator Compantion click "Manage Project". In the top right under "Selected Repos" check the Avatar Performance Tools listing
 
